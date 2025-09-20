@@ -1,4 +1,3 @@
-```yaml
 # General settings
 general:
   db_path: data/news.db
@@ -65,4 +64,3 @@ notifier:
 # Scheduler settings (在 Actions 模式下此部分会被忽略)
 scheduler:
   job_interval_hours: 4
-```
