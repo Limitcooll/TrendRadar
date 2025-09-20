@@ -1,39 +1,28 @@
-# === GitHub 有趣的开源项目 ===
+# 注意：微博、知乎热榜上这类内容较少
 GitHub
 开源
-Open Source
 +项目
-+Trending
-!招聘
 
 # === AI 智能体 ===
-AI Agent
+AI
 智能体
-AutoGPT
-CrewAI
-LangChain
-+模型
-+应用
-!课程
-!培训
+大模型
+ChatGPT
++发布
++更新
+
+# === 开发、Linux 相关 ===
+# 注意：热榜上技术细节内容较少
+Linux
+Docker
+Python
+程序员
++技巧
++教程
 
 # === 国内外热点新闻 ===
+# 这部分在热榜上最容易匹配到
 热点
 头条
-快讯
-+国内
-+国际
-!娱乐
-!八卦
-
-# === 开发、Linux、DO论坛 ===
-Linux
-DigitalOcean
-Docker
-Kubernetes
-DevOps
-+教程
-+技巧
-+最佳实践
-!入门
-!广告
+国际
+国内
